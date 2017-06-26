@@ -8,8 +8,6 @@ https://lwn.net/Articles/230975/ [How much memory are applications really using]
 
 http://careers.directi.com/display/tu/Understanding+and+optimizing+Memory+utilization [Understand and opt. mem usage]
 
-http://blog.scoutapp.com/articles/2015/04/10/understanding-page-faults-and-memory-swap-in-outs-when-should-you-worry
-
 https://en.wikipedia.org/wiki/Thrashing_(computer_science) [Trashing]
 
 https://en.wikipedia.org/wiki/Paging [Paging]
@@ -48,5 +46,7 @@ https://0xax.gitbooks.io/linux-insides/content/Theory/Paging.html
 
 
 
+*****
+<s>http://blog.scoutapp.com/articles/2015/04/10/understanding-page-faults-and-memory-swap-in-outs-when-should-you-worry</s>
 
 
