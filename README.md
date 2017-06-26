@@ -42,6 +42,8 @@ https://en.wikipedia.org/wiki/Buddy_memory_allocation
 
 https://www.kernel.org/doc/gorman/html/understand/understand011.html
 
+http://www.johnchukwuma.com/training/UnderstandingTheLinuxKernel3rdEdition.pdf
+
 https://0xax.gitbooks.io/linux-insides/content/Theory/Paging.html
 
 
