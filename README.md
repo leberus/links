@@ -10,7 +10,7 @@ http://careers.directi.com/display/tu/Understanding+and+optimizing+Memory+utiliz
 
 https://en.wikipedia.org/wiki/Thrashing_(computer_science) [Trashing]
 
-https://en.wikipedia.org/wiki/Paging [Paging]
+https://en.wikipedia.org/wiki/Paging [Paging] ***
 
 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf [What every programmer should know about memory]
 
