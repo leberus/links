@@ -42,11 +42,11 @@ https://www.kernel.org/doc/gorman/html/understand/understand011.html
 
 http://www.johnchukwuma.com/training/UnderstandingTheLinuxKernel3rdEdition.pdf
 
-https://0xax.gitbooks.io/linux-insides/content/Theory/Paging.html
-
 
 
 *****
 <s>http://blog.scoutapp.com/articles/2015/04/10/understanding-page-faults-and-memory-swap-in-outs-when-should-you-worry</s>
+
+<s>https://0xax.gitbooks.io/linux-insides/content/Theory/Paging.html</s>
 
 
