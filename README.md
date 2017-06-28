@@ -1,5 +1,34 @@
 # links
 
+**
+
+Schedule:
+
+https://en.wikipedia.org/wiki/Completely_Fair_Scheduler
+
+https://en.wikipedia.org/wiki/Run_queue
+
+https://www.cs.columbia.edu/~smb/classes/s06-4118/l13.pdf
+
+**
+
+** 
+
+Completion:
+
+https://www.mjmwired.net/kernel/Documentation/scheduler/completion.txt
+
+http://www.makelinux.net/ldd3/chp-5-sect-4
+
+https://stackoverflow.com/questions/4764945/difference-between-completion-variables-and-semaphores
+
+http://elixir.free-electrons.com/linux/latest/source/kernel/sched/completion.c
+
+**
+
+
+
+
 https://emilics.com/notebook/enblog/p871.html [Memory consumption in Linux]
 
 https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxMemoryStats [Find out about mem usage Linux programs]
