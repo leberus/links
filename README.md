@@ -26,7 +26,15 @@ http://elixir.free-electrons.com/linux/latest/source/kernel/sched/completion.c
 
 **
 
+**
 
+Mutex:
+
+https://mortoray.com/2011/12/16/how-does-a-mutex-work-what-does-it-cost/
+
+https://0xax.gitbooks.io/linux-insides/content/SyncPrim/sync-4.html
+
+**
 
 
 https://emilics.com/notebook/enblog/p871.html [Memory consumption in Linux]
