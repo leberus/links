@@ -1,5 +1,13 @@
 # links
 
+** 
+
+kworker/u8:25
+
+https://www.kernel.org/doc/Documentation/kernel-per-CPU-kthreads.txt
+
+**
+
 **
 
 Schedule:
