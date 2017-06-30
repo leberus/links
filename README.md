@@ -5,9 +5,9 @@
 
 affinity:
 
-https://www.systutorials.com/239953/sched_setaffinity-works-inside-of-linux-kernel/
+<s>https://www.systutorials.com/239953/sched_setaffinity-works-inside-of-linux-kernel/</s>
 
-https://www.systutorials.com/239971/migration-thread-works-inside-linux-kernel/
+<s>https://www.systutorials.com/239971/migration-thread-works-inside-linux-kernel/</s>
 
 **
 
