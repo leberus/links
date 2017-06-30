@@ -1,5 +1,9 @@
 # links
 
+**
+.kprobes.text+xbdd): undefined reference to 'prog'
+
+**
 
 **
 
