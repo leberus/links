@@ -29,6 +29,8 @@ https://en.wikipedia.org/wiki/Run_queue
 
 https://www.cs.columbia.edu/~smb/classes/s06-4118/l13.pdf
 
+http://martinbj2008.github.io/blog/2013/07/26/draft-how-to-select-a-realtime-task-when-schedule/
+
 **
 
 ** 
