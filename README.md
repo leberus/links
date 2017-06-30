@@ -23,7 +23,7 @@ https://www.kernel.org/doc/Documentation/kernel-per-CPU-kthreads.txt
 
 Schedule:
 
-https://en.wikipedia.org/wiki/Completely_Fair_Scheduler
+<s>https://en.wikipedia.org/wiki/Completely_Fair_Scheduler</s>
 
 https://en.wikipedia.org/wiki/Run_queue
 
