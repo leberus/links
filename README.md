@@ -2,9 +2,10 @@
 
 **
 
-.kprobes.text+xbdd): undefined reference to 'prog'
+kernel/module.c
 
-**
+modprobe/insmod
+
 
 **
 
