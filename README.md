@@ -6,6 +6,8 @@ kernel/module.c
 
 modprobe/insmod
 
+http://www.linuxjournal.com/article/6896?page=0,2
+
 
 **
 
