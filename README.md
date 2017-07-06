@@ -24,6 +24,8 @@ tracing user/kernel-space:
 
 https://www.kernel.org/doc/Documentation/trace/
 
+perf mem
+
 **
 
 **
