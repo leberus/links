@@ -18,6 +18,16 @@ http://learnlinuxconcepts.blogspot.de/2014/01/bottom-halves.html
 
 **
 
+tracing user/kernel-space:
+
+<s>https://opensource.com/article/17/7/dynamic-tracing-linux-user-and-kernel-space</s>
+
+https://www.kernel.org/doc/Documentation/trace/
+
+**
+
+**
+
 kernel/module.c
 
 modprobe/insmod
