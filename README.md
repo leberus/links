@@ -10,6 +10,10 @@ http://www.informit.com/articles/article.aspx?p=414983&seqNum=2
 
 http://www.linuxjournal.com/article/5600
 
+https://kukuruku.co/post/multitasking-in-the-linux-kernel-interrupts-and-tasklets/
+
+http://learnlinuxconcepts.blogspot.de/2014/01/bottom-halves.html
+
 **
 
 **
