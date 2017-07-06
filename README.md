@@ -2,6 +2,14 @@
 
 **
 
+kthread_park / kthread_unpark
+
+https://lwn.net/Articles/500338/
+
+**
+
+**
+
 kernel/module.c
 
 modprobe/insmod
