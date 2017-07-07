@@ -14,6 +14,13 @@ https://kukuruku.co/post/multitasking-in-the-linux-kernel-interrupts-and-tasklet
 
 http://learnlinuxconcepts.blogspot.de/2014/01/bottom-halves.html
 
+https://0xax.gitbooks.io/linux-insides/content/Concepts/per-cpu.html
+
+https://kukuruku.co/post/multitasking-management-in-the-operating-system-kernel/
+
+https://en.wikipedia.org/wiki/Symmetric_multiprocessing
+
+
 **
 
 **
