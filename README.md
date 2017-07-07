@@ -97,6 +97,8 @@ https://0xax.gitbooks.io/linux-insides/content/SyncPrim/sync-4.html
 
 Memory
 
+https://lwn.net/Articles/691631/ [Virtual memory map for stack]
+
 https://emilics.com/notebook/enblog/p871.html [Memory consumption in Linux]
 
 https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxMemoryStats [Find out about mem usage Linux programs]
