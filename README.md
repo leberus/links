@@ -2,6 +2,15 @@
 
 **
 
+RCU
+
+https://lwn.net/Articles/262464/
+
+**
+
+
+**
+
 kthread_park / kthread_unpark
 
 https://lwn.net/Articles/500338/
