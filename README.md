@@ -56,6 +56,22 @@ affinity:
 
 ** 
 
+xen:
+
+http://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf
+
+https://lwn.net/Articles/454795/
+
+https://wiki.xen.org/wiki/X86_Paravirtualised_Memory_Management
+
+https://blogs.oracle.com/wim/understanding-memory-allocation-in-oracle-vm-xen
+
+https://www.systutorials.com/39552/managing-xen-dom0s-cpu-and-memory/
+
+**
+
+** 
+
 kworker/u8:25
 
 https://www.kernel.org/doc/Documentation/kernel-per-CPU-kthreads.txt
