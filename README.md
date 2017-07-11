@@ -4,7 +4,7 @@
 
 RCU
 
-https://lwn.net/Articles/262464/
+<s>https://lwn.net/Articles/262464/</s>
 
 **
 
