@@ -23,7 +23,7 @@ https://lwn.net/Articles/500338/
 
 <s>https://kukuruku.co/post/multitasking-in-the-linux-kernel-interrupts-and-tasklets/</s>
 
-http://learnlinuxconcepts.blogspot.de/2014/01/bottom-halves.html
+<s>http://learnlinuxconcepts.blogspot.de/2014/01/bottom-halves.html</s>
 
 https://0xax.gitbooks.io/linux-insides/content/Concepts/per-cpu.html
 
