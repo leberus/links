@@ -6,6 +6,8 @@ RCU
 
 <s>https://lwn.net/Articles/262464/</s>
 
+https://www.kernel.org/doc/Documentation/RCU/whatisRCU.txt
+
 **
 
 
