@@ -15,9 +15,9 @@ kthread_park / kthread_unpark
 
 https://lwn.net/Articles/500338/
 
-http://www.informit.com/articles/article.aspx?p=414983&seqNum=2
+<s>http://www.informit.com/articles/article.aspx?p=414983&seqNum=2</s>
 
-http://www.linuxjournal.com/article/5600
+<s>http://www.linuxjournal.com/article/5600</s>
 
 https://kukuruku.co/post/multitasking-in-the-linux-kernel-interrupts-and-tasklets/
 
