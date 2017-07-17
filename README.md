@@ -4,13 +4,13 @@
 
 mem
 
-https://lwn.net/Articles/658081/
+<s>https://lwn.net/Articles/658081/</s>
 
-https://lwn.net/Articles/684437/
+<s>https://lwn.net/Articles/684437/</s>
 
-https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=dcda9b04713c3f6ff0875652924844fae28286ea
+<s>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=dcda9b04713c3f6ff0875652924844fae28286ea</s>
 
-https://lwn.net/Articles/702596/
+<s>https://lwn.net/Articles/702596/</s>
 
 **
 
