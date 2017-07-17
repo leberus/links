@@ -122,13 +122,13 @@ http://martinbj2008.github.io/blog/2013/07/26/draft-how-to-select-a-realtime-tas
 
 Completion:
 
-https://www.mjmwired.net/kernel/Documentation/scheduler/completion.txt
+<s>https://www.mjmwired.net/kernel/Documentation/scheduler/completion.txt</s>
 
-http://www.makelinux.net/ldd3/chp-5-sect-4
+<s>http://www.makelinux.net/ldd3/chp-5-sect-4</s>
 
-https://stackoverflow.com/questions/4764945/difference-between-completion-variables-and-semaphores
+<s>https://stackoverflow.com/questions/4764945/difference-between-completion-variables-and-semaphores</s>
 
-http://elixir.free-electrons.com/linux/latest/source/kernel/sched/completion.c
+<s>http://elixir.free-electrons.com/linux/latest/source/kernel/sched/completion.c</s>
 
 **
 
