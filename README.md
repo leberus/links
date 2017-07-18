@@ -190,6 +190,8 @@ https://www.kernel.org/doc/gorman/html/understand/understand011.html
 
 http://www.johnchukwuma.com/training/UnderstandingTheLinuxKernel3rdEdition.pdf
 
+http://www.linuxatemyram.com/play.html#footnote2
+
 
 
 *****
