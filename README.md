@@ -5,10 +5,16 @@
 cache
 
 https://en.wikipedia.org/wiki/CPU_cache
+
 https://en.wikipedia.org/wiki/Cache_(computing)
+
 http://www.anandtech.com/show/6993/intel-iris-pro-5200-graphics-review-core-i74950hq-tested/3
+
 https://software.intel.com/en-us/articles/intel-xeon-processor-scalable-family-technical-overview
+
 https://www.ece.umd.edu/~blj/papers/hpca2006.pdf
+
+**
 
 
 **
